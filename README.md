@@ -1,5 +1,11 @@
 # Hup Pup App!
 
+## 2021-02-26
+
+TODO Create as GitHub issues when SMS is back up (wtf btw)
+
+## In The Before Times
+
 Hello!
 
 User flows!
